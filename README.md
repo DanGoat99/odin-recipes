@@ -1,0 +1,1 @@
+This project will be a small website making use of HTML and CSS.
